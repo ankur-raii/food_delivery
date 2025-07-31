@@ -68,7 +68,7 @@ git clone https://github.com/your-username/food-del.git
    ```bash
    npm run dev
    ```
-5. **Open browser and go to:
+5. **Open browser and go to:**
    And you will a well designed frontend project of food_delivery.
 
 food-del/
