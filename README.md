@@ -32,8 +32,8 @@ It shows how a basic food delivery website might look like – with features lik
 ## 🚀 Live Demo
 
 👉 Hosted on **Netlify**:  
-[🔗 Click here to see the live site](https://your-site-name.netlify.app)  
-*(Replace with your Netlify link)*
+[🔗 Click here to see the live site](https://foodeliveryfeproject.netlify.app/)  
+
 
 ---
 
